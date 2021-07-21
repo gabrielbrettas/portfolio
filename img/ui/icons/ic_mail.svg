@@ -1,0 +1,14 @@
+<svg width="80" height="61" viewBox="0 0 80 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>message-closed-envelope</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(440 -236)" figma:type="canvas">
+<g id="message-closed-envelope" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-440 236)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 70.5049 -6.38916e-08L 9.49531 -6.38916e-08C 4.25964 -6.38916e-08 0 4.09068 0 9.11867L 0 51.6432C 0 56.6712 4.25964 60.7619 9.49531 60.7619L 70.5049 60.7619C 75.7406 60.7619 80 56.6712 80 51.6432L 80 9.11867C 80 4.09068 75.7406 -6.38916e-08 70.5049 -6.38916e-08ZM 70.5049 52.7116L 9.49531 52.7116C 8.7257 52.7116 8.05073 52.2125 8.05073 51.6432L 8.05073 14.7419L 35.6437 38.0374C 36.2094 38.5151 36.9288 38.7781 37.6695 38.7781L 42.3297 38.7783C 43.07 38.7783 43.7897 38.5151 44.3556 38.0374L 71.9499 14.741L 71.9499 51.6437C 71.9495 52.2125 71.2743 52.7116 70.5049 52.7116ZM 40.0001 30.7847L 13.1625 8.05031L 66.8377 8.05031L 40.0001 30.7847Z"/>
+</defs>
+</svg>

@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0; }
+
+html, body {
+  height: 100%; }
+
+body {
+  background: url(/img/bg_praia_2.jpg) no-repeat center center fixed;
+  background-size: cover; }
+
+header {
+  height: 90%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+  header .logo {
+    margin: auto;
+    opacity: 1; }
+    header .logo img {
+      width: 300px; }
+      @media all and (max-width: 1000px) {
+        header .logo img {
+          width: 180px; } }
+
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+  footer .social {
+    width: 50%;
+    margin-bottom: 3%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around; }
+    @media all and (max-width: 1000px) {
+      footer .social {
+        width: 80%; } }
+    footer .social a {
+      text-decoration: none;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+      flex-direction: row;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      font-family: 'Lato', sans-serif;
+      font-weight: 400;
+      font-size: 14px; }
+      footer .social a img {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        width: 50px; }
+        @media all and (max-width: 1000px) {
+          footer .social a img {
+            width: 35px; } }
+      footer .social a .tooltip {
+        position: absolute;
+        margin-top: -15px;
+        padding: 8px 20px;
+        color: #ffffff;
+        border-radius: 50px;
+        border: 3px solid #ffffff;
+        visibility: hidden;
+        opacity: 0;
+        -webkit-transition: all 0.15s ease-in-out;
+        transition: all 0.15s ease-in-out; }
+    footer .social a:hover .tooltip {
+      visibility: visible;
+      opacity: 0.8;
+      margin-top: -40px; }

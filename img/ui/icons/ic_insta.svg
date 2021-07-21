@@ -1,0 +1,24 @@
+<svg width="80" height="80" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>instagram-logo</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-160 -224)" figma:type="canvas">
+<g id="instagram-logo" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(160 224)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(179.386 243.387)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(216.273 237.368)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 57.9224 0L 22.0766 0C 9.90359 0 0 9.90406 0 22.0771L 0 57.9229C 0 70.0964 9.90359 80 22.0766 80L 57.9224 80C 70.0964 80 80 70.0959 80 57.9229L 80 22.0771C 80.0005 9.90406 70.0964 0 57.9224 0ZM 72.9025 57.9229C 72.9025 66.1826 66.1826 72.902 57.9229 72.902L 22.0766 72.902C 13.8174 72.9025 7.09799 66.1826 7.09799 57.9229L 7.09799 22.0771C 7.09799 13.8179 13.8174 7.09799 22.0766 7.09799L 57.9224 7.09799C 66.1821 7.09799 72.902 13.8179 72.902 22.0771L 72.902 57.9229L 72.9025 57.9229Z"/>
+<path id="path1_fill" d="M 20.614 5.77636e-07C 9.24726 5.77636e-07 -7.07604e-07 9.24726 -7.07604e-07 20.614C -7.07604e-07 31.9802 9.24726 41.227 20.614 41.227C 31.9807 41.227 41.2279 31.9802 41.2279 20.614C 41.2279 9.24726 31.9807 5.77636e-07 20.614 5.77636e-07ZM 20.614 34.1285C 13.1616 34.1285 7.09799 28.0659 7.09799 20.6135C 7.09799 13.1606 13.1611 7.09752 20.614 7.09752C 28.0669 7.09752 34.13 13.1606 34.13 20.6135C 34.13 28.0659 28.0664 34.1285 20.614 34.1285Z"/>
+<path id="path2_fill" d="M 5.20519 -2.59936e-07C 3.83765 -2.59936e-07 2.49423 0.553643 1.52843 1.5237C 0.557902 2.48903 -1.12639e-06 3.83291 -1.12639e-06 5.20519C -1.12639e-06 6.57321 0.558376 7.91662 1.52843 8.88668C 2.49376 9.85201 3.83765 10.4104 5.20519 10.4104C 6.57747 10.4104 7.91662 9.85201 8.88668 8.88668C 9.85674 7.91662 10.4104 6.57274 10.4104 5.20519C 10.4104 3.83291 9.85674 2.48903 8.88668 1.5237C 7.92136 0.553643 6.57747 -2.59936e-07 5.20519 -2.59936e-07Z"/>
+</defs>
+</svg>

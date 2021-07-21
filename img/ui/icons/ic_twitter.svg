@@ -1,0 +1,18 @@
+<svg width="80" height="65" viewBox="0 0 80 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>twitter-logo-silhouette</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(240 -233)" figma:type="canvas">
+<g id="twitter-logo-silhouette" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-240 233)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 80 7.68851C 77.0555 8.99322 73.8962 9.87805 70.5767 10.2731C 73.9661 8.24341 76.5606 5.02406 77.7903 1.19974C 74.611 3.07935 71.1016 4.44419 67.3622 5.18406C 64.3678 1.98968 60.1086 2.47332e-07 55.3844 2.47332e-07C 46.3211 2.47332e-07 38.9725 7.34864 38.9725 16.407C 38.9725 17.6917 39.1174 18.9464 39.3974 20.1463C 25.76 19.4613 13.6673 12.9276 5.57386 2.99935C 4.15909 5.41896 3.35425 8.23831 3.35425 11.2479C 3.35425 16.9419 6.25374 21.9659 10.653 24.9053C 7.96341 24.8153 5.43387 24.0755 3.21935 22.8457L 3.21935 23.0506C 3.21935 30.9991 8.87831 37.6329 16.3819 39.1427C 15.0071 39.5126 13.5574 39.7176 12.0577 39.7176C 10.9979 39.7176 9.97309 39.6126 8.96825 39.4126C 11.0578 45.9364 17.1168 50.6805 24.2955 50.8105C 18.6815 55.2098 11.6028 57.8243 3.91425 57.8243C 2.58955 57.8243 1.28471 57.7443 6.2096e-12 57.5993C 7.26367 62.2635 15.8871 64.983 25.1553 64.983C 55.3447 64.983 71.8467 39.9776 71.8467 18.2917L 71.7916 16.1671C 75.0159 13.8673 77.8054 10.9779 80 7.68851Z"/>
+</defs>
+</svg>
